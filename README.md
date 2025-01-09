@@ -1,2 +1,8 @@
-# consistenthash
-A simple module to manage a hash ring to enable load to be allocated evenly across nodes
+# ConsistentHash
+
+A Go package implementing consistent hashing.
+
+## Installation
+
+```bash
+go get github.com/your-username/consistenthash
